@@ -1,4 +1,3 @@
-// ...existing code...
 # AI Assignment 4 — README
 
 Notebook: `ai_assign_4.ipynb`  
@@ -61,3 +60,4 @@ pip install tensorflow matplotlib numpy scikit-learn jupyterlab
 - Split repeated training/evaluation code into functions to avoid duplication.
 - Save trained models and evaluation outputs to disk for later analysis.
 - Add confusion matrix plots for deeper error analysis.
+
